@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 
 program
-  .version('0.1.0')
+  .version('0.1.1')
   .option('-D, --delete', 'delete the original SVG file')
   .arguments('<svg-file>')
   .action((svgFile) => {
