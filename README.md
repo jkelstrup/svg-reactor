@@ -1,4 +1,4 @@
-![svg-reactor logo](logo@2x.png)
+![svg-reactor logo](https://jkelstrup.github.io/img/svg-reactor-logo@2x.png)
 
 # SVG-REACTOR
 A tool to convert SVG-files to React components.
