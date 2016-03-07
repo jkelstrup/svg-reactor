@@ -1,6 +1,6 @@
 {
   "name": "svg-reactor",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A tool to convert SVG files to React components.",
   "main": "index.js",
   "scripts": {
