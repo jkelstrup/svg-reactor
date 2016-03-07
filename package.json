@@ -1,0 +1,18 @@
+{
+  "name": "svg-reactor",
+  "version": "0.0.1",
+  "description": "A tool to convert SVG files to React components.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonas Kelstrup <jonaskelstrup@gmail.com> (http://jkelstrup.com)",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "svg-reactor": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
